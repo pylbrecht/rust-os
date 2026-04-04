@@ -1,1 +1,1 @@
-https://os.phil-opp.com/
+This repository moved to https://codeberg.org/pylbrecht/rust-os.
